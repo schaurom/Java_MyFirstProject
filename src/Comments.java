@@ -5,8 +5,8 @@ public class Comments {
         // Dies ist ebenfalls ein Kommentar
         // System.out.println("Hello World");
 
-        int x; // Variablendeklaration
-
+        int x = 3; // Variablendeklaration
+        System.out.println(x);
         /*
         * Das ist
         * ein mehrzeiliger
